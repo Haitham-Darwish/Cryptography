@@ -17,13 +17,12 @@ We will speak about using [GUI](#GUI) and talk about [Code](#Code)
 ## How to run program 
 Click on ***'CipherDecryption.py'*** or navigate to the directory using cd [directory] then ***'python CipherDecryption.py'*** 
 
-<prev >
+<pre>
 <code >
 cd "Cipher by many type"
-  
 python CipherDecryption.py
 </code>
-</prev>
+</pre>
 
 Enter the file or type the text you want to decrypt enter the output file, get the plaintext.
 

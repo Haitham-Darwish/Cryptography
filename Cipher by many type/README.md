@@ -10,7 +10,7 @@ We will speak about using [GUI](#GUI) and talk about [Code](#Code)
 ## Code
 ## Index    
   1. We will start with [How to run the progam](#How-to-run-program)
-  2. Then move to [How does it work](#How-does-it-work?) to see the methodology of making the program
+  2. Then move to [How does it work](#how-does-it-work?) to see the methodology of making the program
   3. Transfering to [Resources](#Resources) that helps me make this program.
   4. Then will end with [Documentation](#Documentation) if you want to use it.
 
@@ -32,8 +32,8 @@ Enter the file or type the text you want to decrypt enter the output file, get t
 
 ## How does it work?
 
-The program will check if it is ciphered by reverse then Caesar then Transposition then product which is substitution(Caesar) and Transposition.
-It will check the cipher is encrypted by each one or not by searching for the word on the file whether it in the dictionary or then check what is the percentage of all word and check the unusual letter or symbol which is not in the English.
+The program will check if it is ciphered by reverse if not, then Caesar if not, then Transposition if not, then product which is substitution(Caesar) and Transposition.
+It will check the cipher is encrypted by each one or not by searching for the word in the file whether it is in the dictionary or not, then checks what is the percentage of all word and check the unusual letter or symbol which is not in the English.
 
 ## Resources
 [Symmetric Cryptography](https://www.coursera.org/learn/symmetric-crypto)

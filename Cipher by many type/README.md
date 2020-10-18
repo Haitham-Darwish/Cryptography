@@ -20,7 +20,7 @@ Click on ***'CipherDecryption.py'*** or navigate to the directory using cd [dire
 <prev >
 <code >
 cd "Cipher by many type"
-<br>
+  
 python CipherDecryption.py
 </code>
 </prev>
